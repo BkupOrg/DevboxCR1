@@ -1186,6 +1186,10 @@
     <layoutAssignments>
         <layout>WorkPerformanceCycle-Performance Cycle Layout</layout>
     </layoutAssignments>
+    <pageAccesses>
+        <apexPage>PageOne</apexPage>
+        <enabled>false</enabled>
+    </pageAccesses>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
